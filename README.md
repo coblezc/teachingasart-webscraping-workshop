@@ -1,0 +1,1 @@
+Workshop materials for Teaching as Art final. More info on the [TaA repo](https://github.com/tchoi8/teachingasart2018/tree/master/assignments/9_Finalproject/Zach_Coble.md)
